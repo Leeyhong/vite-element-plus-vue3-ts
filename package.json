@@ -9,12 +9,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "@types/lodash": "^4.14.194",
+    "axios": "^1.4.0",
+    "element-plus": "^2.3.4",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
+    "@types/node": "^18.16.3",
     "@vitejs/plugin-vue": "^4.1.0",
+    "sass": "^1.62.1",
     "typescript": "^5.0.2",
-    "vite": "^4.3.2",
+    "vite": "^4.3.4",
     "vue-tsc": "^1.4.2"
   }
 }
